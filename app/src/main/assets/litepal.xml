@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="MessageRecord"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.wanderlust.chattingrobot_mvp.model.beans.TextBean"/>
+    </list>
+</litepal>

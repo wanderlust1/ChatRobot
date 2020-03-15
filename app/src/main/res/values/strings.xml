@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChattingRobot_MVP</string>
+
+    <string name="user_id">283552</string>
+    <string name="api_key">fbcc560fa4fa454fa93a85cf0ad3d7f8</string>
+    <string name="url">http://openapi.tuling123.com/openapi/api/v2</string>
+
+</resources>
